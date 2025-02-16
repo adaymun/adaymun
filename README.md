@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🌟 adaymun
 
+Config files for my GitHub profile.
 
-**adaymun/adaymun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Repo stars](https://img.shields.io/github/stars/adaymun/adaymun?style=social) ![GitHub forks](https://img.shields.io/github/forks/adaymun/adaymun?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/adaymun/adaymun?style=social) ![GitHub followers](https://img.shields.io/github/followers/adaymun?style=social)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📑 Overview
+
+This repository contains configuration files and settings for my GitHub profile.
+
+## 📂 Repository Structure
+
+```plaintext
+.
+├── .github/            # GitHub-specific configuration files
+├── README.md           # This README file
+└── ...                 # Other config files
